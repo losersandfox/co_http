@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/chat_exe.dir/link.d CMakeFiles/chat_exe.dir/src/main.cpp.o CMakeFiles/chat_exe.dir/src/server.cpp.o -o chat_exe  /usr/lib/libspdlog.so.1.17.0 -luring /usr/lib/libfmt.so.12.1.0

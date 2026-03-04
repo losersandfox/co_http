@@ -1,0 +1,4 @@
+/home/Corsac/LinuxBak/chat-server/build/CMakeFiles/chat_exe.dir
+/home/Corsac/LinuxBak/chat-server/build/CMakeFiles/chat_test.dir
+/home/Corsac/LinuxBak/chat-server/build/CMakeFiles/edit_cache.dir
+/home/Corsac/LinuxBak/chat-server/build/CMakeFiles/rebuild_cache.dir

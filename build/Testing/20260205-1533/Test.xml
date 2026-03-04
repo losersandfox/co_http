@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260205-1533-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.2.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="legionlaptap"
+	OSRelease="6.18.9-arch1-2"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Mon, 09 Feb 2026 17:16:33 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="154"
+	ModelName="12th Gen Intel(R) Core(TM) i7-12700H"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="20"
+	NumberOfPhysicalCPU="14"
+	TotalVirtualMemory="20479"
+	TotalPhysicalMemory="31878"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2637.19"
+	>
+	<Testing>
+		<StartDateTime>Mar 04 08:17 CST</StartDateTime>
+		<StartTestTime>1772583456</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 04 08:17 CST</EndDateTime>
+		<EndTestTime>1772583456</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
